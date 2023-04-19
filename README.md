@@ -7,6 +7,7 @@ Please see my portfolio at https://unawks02.github.io/ if you're interested in m
 - Interested in fields that combine creating new things, designing visual elements, and communicating with people
 - Exploring careers in UI, UX, and front-end development
 - Working on an independent game, RainWater (currently focusing on composing music and bug testing)
+- Check out my game! https://unawks.itch.io/rainwater (IN DEVELOPMENT)
 
 *Ask me about...*
 - The many issues I've had importing PNGs to Unity
