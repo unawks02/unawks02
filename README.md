@@ -4,7 +4,7 @@ Please see my portfolio at https://unawks02.github.io/ if you're interested in m
 
 *A little about me...*
 - Currently a student at UW-Madison
-- Very interested in fields that combine my interests in creating new things, designing visual elements, and communicating with people
+- Interested in fields that combine my interests in creating new things, designing visual elements, and communicating with people
 - Exploring careers in UI, UX, and front-end development
 - Working on an independent game, RainWater (currently focusing on composing music and bug testing)
 
