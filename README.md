@@ -6,19 +6,19 @@ Please see my portfolio at https://unawks02.github.io/ if you're interested in m
 - Currently a student at UW-Madison
 - Interested in fields that combine creating new things, designing visual elements, and communicating with people
 - Exploring careers in UI, UX, and front-end development
-- Working on an independent game, RainWater (currently focusing on composing music and bug testing)
-- Check out my game! https://unawks.itch.io/rainwater (IN DEVELOPMENT)
+- Working on independent game design and other creative projects
 
 *Ask me about...*
 - The many issues I've had importing PNGs to Unity
 - Triumphs and challenges of working in a team
 - Designing a project from start to finish
+- Using Roblox Experiences as an educational tool
 
 *My future plans...*
 - Edit my website (portfolio linked above)
 - Learn more about React
 - Make some UX mock-ups
-- Make a video game that involves music
+- Make a video game that involves music in its mechanic(s)
 - Draw whenever I can
 
 
