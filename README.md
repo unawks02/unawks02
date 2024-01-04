@@ -5,19 +5,18 @@ Please see my portfolio at https://unawks02.github.io/ if you're interested in m
 *A little about me...*
 - Currently a student at UW-Madison
 - Interested in fields that combine creating new things, designing visual elements, and communicating with people
-- Exploring careers in UI, UX, and front-end development
+- Exploring careers in UI, UX, education, and front-end development
 - Working on independent game design and other creative projects
 
 *Ask me about...*
 - The many issues I've had importing PNGs to Unity
 - Triumphs and challenges of working in a team
 - Designing a project from start to finish
-- Using Roblox Experiences as an educational tool
+- Using games as an educational tool
 
 *My future plans...*
 - Edit my website (portfolio linked above)
-- Learn more about React
-- Make some UX mock-ups
+- Graduate (May 2024!)
 - Make a video game that involves music in its mechanic(s)
 - Draw whenever I can
 
